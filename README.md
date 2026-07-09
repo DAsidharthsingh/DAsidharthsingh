@@ -43,10 +43,11 @@
 
 ---
 
-## 📫 Connect with Me
+## 🌐 Connect With Me
 
-- 📍 Delhi NCR, India
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dasidharthsingh/)
 
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidharthsingh1524@gmail.com)
 ---
 
 ⭐ Always learning. Always building.
