@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there 👋, I'm Sidharth Singh
 
-<!--
-**DAsidharthsingh/DAsidharthsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech CSE (Data Science)** at BPIT, GGSIPU
 
-Here are some ideas to get you started:
+💡 Passionate about Machine Learning, Data Science, and Python Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently Working On
+
+- Machine Learning Projects
+- Data Analysis with Python
+- Regression & Classification Models
+- Improving my GitHub Portfolio
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Python
+- Java
+- C++
+- SQL
+
+**Libraries & Tools**
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Git
+- GitHub
+
+---
+
+## 🌱 Currently Learning
+
+- Feature Engineering
+- Model Optimization
+- Deep Learning
+
+---
+
+## 📫 Connect with Me
+
+- 📍 Delhi NCR, India
+
+---
+
+⭐ Always learning. Always building.
