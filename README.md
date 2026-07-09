@@ -1,4 +1,8 @@
-# Hi there 👋, I'm Sidharth Singh
+<h1 align="center">Hi 👋, I'm Sidharth Singh</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(Data+Science)+Student;Machine+Learning+Enthusiast;Python+Developer;Building+Real+World+ML+Projects;Always+Learning+New+Things+🚀" />
+</p>
 
 🎓 **B.Tech CSE (Data Science)** at BPIT, GGSIPU
 
