@@ -46,21 +46,3 @@
 ---
 
 ⭐ Always learning. Always building.
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=DAsidharthsingh&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DAsidharthsingh&layout=compact&theme=tokyonight)
-
-## 🔥 GitHub Streak
-
-![](https://streak-stats.demolab.com?user=DAsidharthsingh&theme=tokyonight)
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=DAsidharthsingh&color=blueviolet)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=DAsidharthsingh&theme=tokyonight&no-frame=true&margin-w=15)
