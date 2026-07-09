@@ -24,7 +24,7 @@
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -46,3 +46,21 @@
 ---
 
 ⭐ Always learning. Always building.
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=DAsidharthsingh&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DAsidharthsingh&layout=compact&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![](https://streak-stats.demolab.com?user=DAsidharthsingh&theme=tokyonight)
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=DAsidharthsingh&color=blueviolet)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=DAsidharthsingh&theme=tokyonight&no-frame=true&margin-w=15)
