@@ -15,7 +15,6 @@
 - Machine Learning Projects
 - Data Analysis with Python
 - Regression & Classification Models
-- Improving my GitHub Portfolio
 
 ---
 
